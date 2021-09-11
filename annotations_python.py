@@ -10,6 +10,7 @@ def method_name():
 method_name()
 
 
+
 def add(x: int, y: int) -> None:
     print("Addition is ",x+y)
 
